@@ -28,63 +28,72 @@ msgid ""
 "    6 Exit\n"
 "    "
 msgstr ""
+"Please select an operation:\n"
+"    1 See accounts\n"
+"    2 Create accounts\n"
+"    3 See balance\n"
+"    4 Make income\n"
+"    5 Make withdrawal\n"
+"    6 Exit\n"
+"    "
 
 #: main.py:29
 msgid "Nombre: "
-msgstr ""
+msgstr "Name"
 
 #: main.py:30
 msgid "Apellido: "
-msgstr ""
+msgstr "Surname"
 
 #: main.py:31
 msgid "Numero de Cuenta: "
-msgstr ""
+msgstr "Account number"
 
 #: main.py:33 main.py:42 main.py:47 main.py:54 main.py:61
 msgid "Pulse Enter para continuar..."
-msgstr ""
+msgstr "Press Enter to continue ..."
 
 #: main.py:35
 msgid "Introduzca nombre: "
-msgstr ""
+msgstr "Enter name:"
 
 #: main.py:36
 msgid "Introduzca apellido: "
-msgstr ""
+msgstr "Enter surname:"
 
 #: main.py:41
 msgid "Cuenta creada"
-msgstr ""
+msgstr "create account"
 
 #: main.py:45
 msgid "Por favor indique el numero de cuenta:"
-msgstr ""
+msgstr "Please indicate the account number:"
 
 #: main.py:46
 msgid "El saldo de la cuenta "
-msgstr ""
+msgstr "The balance of the account
+"
 
 #: main.py:50 main.py:57
 msgid "Por favor indique el numero de cuenta al que desea hacer el ingreso:"
-msgstr ""
+msgstr "Please indicate the account number to which you wish to deposit:"
 
 #: main.py:51
 msgid "Por favor indique la cantidad a ingresar:"
-msgstr ""
+msgstr "Please indicate the amount to be entered:"
 
 #: main.py:53
 msgid "Se ha realizado el ingreso"
-msgstr ""
+msgstr "Admission has been made"
 
 #: main.py:58
 msgid "Por favor indique la cantidad a retirar:"
-msgstr ""
+msgstr "Please indicate the amount to withdraw:"
 
 #: main.py:60
 msgid "Se ha realizado la retirada"
-msgstr ""
+msgstr "The withdrawal has been made "
 
 #: main.py:64
 msgid "Fin del programa"
-msgstr ""
+msgstr "End of the program"

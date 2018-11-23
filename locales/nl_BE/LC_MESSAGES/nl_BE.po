@@ -28,63 +28,71 @@ msgid ""
 "    6 Exit\n"
 "    "
 msgstr ""
+"Selecteer een bewerking:\n "
+"    1 Zie bankrenkeningnummers\n"
+"    2 Bankrekening aanmaken\n"
+"    3 Zie saldo\n"
+"    4 Sorten\n"
+"    5 Afhalen\n"
+"    6 Exit\n"
+"    "
 
 #: main.py:29
 msgid "Nombre: "
-msgstr ""
+msgstr "Naam:"
 
 #: main.py:30
 msgid "Apellido: "
-msgstr ""
+msgstr "Achternaam:"
 
 #: main.py:31
 msgid "Numero de Cuenta: "
-msgstr ""
+msgstr "Bankrekeningnummer:"
 
 #: main.py:33 main.py:42 main.py:47 main.py:54 main.py:61
 msgid "Pulse Enter para continuar..."
-msgstr ""
+msgstr "Druk op Enter om verder te gaan..."
 
 #: main.py:35
 msgid "Introduzca nombre: "
-msgstr ""
+msgstr "Vul u naam in:"
 
 #: main.py:36
 msgid "Introduzca apellido: "
-msgstr ""
+msgstr "Vul u achternaam in:"
 
 #: main.py:41
 msgid "Cuenta creada"
-msgstr ""
+msgstr "Bankrekening aangemaakt"
 
 #: main.py:45
 msgid "Por favor indique el numero de cuenta:"
-msgstr ""
+msgstr "Geef u bankrekeningnummer in"
 
 #: main.py:46
 msgid "El saldo de la cuenta "
-msgstr ""
+msgstr "Saldo van u bankrekeningnummer "
 
 #: main.py:50 main.py:57
 msgid "Por favor indique el numero de cuenta al que desea hacer el ingreso:"
-msgstr ""
+msgstr "Vul het bankrekeningnummer in waar u wilt sorten:"
 
 #: main.py:51
 msgid "Por favor indique la cantidad a ingresar:"
-msgstr ""
+msgstr "Vul het berdrag in dat moet worden gestort:"
 
 #: main.py:53
 msgid "Se ha realizado el ingreso"
-msgstr ""
+msgstr "Het is correct gestort"
 
 #: main.py:58
 msgid "Por favor indique la cantidad a retirar:"
-msgstr ""
+msgstr "Vul het bedrag in dat u wilt afhalen:"
 
 #: main.py:60
 msgid "Se ha realizado la retirada"
-msgstr ""
+msgstr "Het is correct afgehaalt"
 
 #: main.py:64
 msgid "Fin del programa"
-msgstr ""
+msgstr "Einde van het programma"

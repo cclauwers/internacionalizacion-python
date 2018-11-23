@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-23 20:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.py:17
+msgid ""
+"Por favor seleccione una operacion:\n"
+"    1 Ver cuentas\n"
+"    2 Crear cuenta\n"
+"    3 Ver saldo\n"
+"    4 Hacer ingreso\n"
+"    5 Hacer retirada\n"
+"    6 Exit\n"
+"    "
+msgstr ""
+
+#: main.py:29
+msgid "Nombre: "
+msgstr ""
+
+#: main.py:30
+msgid "Apellido: "
+msgstr ""
+
+#: main.py:31
+msgid "Numero de Cuenta: "
+msgstr ""
+
+#: main.py:33 main.py:42 main.py:47 main.py:54 main.py:61
+msgid "Pulse Enter para continuar..."
+msgstr ""
+
+#: main.py:35
+msgid "Introduzca nombre: "
+msgstr ""
+
+#: main.py:36
+msgid "Introduzca apellido: "
+msgstr ""
+
+#: main.py:41
+msgid "Cuenta creada"
+msgstr ""
+
+#: main.py:45
+msgid "Por favor indique el numero de cuenta:"
+msgstr ""
+
+#: main.py:46
+msgid "El saldo de la cuenta "
+msgstr ""
+
+#: main.py:50 main.py:57
+msgid "Por favor indique el numero de cuenta al que desea hacer el ingreso:"
+msgstr ""
+
+#: main.py:51
+msgid "Por favor indique la cantidad a ingresar:"
+msgstr ""
+
+#: main.py:53
+msgid "Se ha realizado el ingreso"
+msgstr ""
+
+#: main.py:58
+msgid "Por favor indique la cantidad a retirar:"
+msgstr ""
+
+#: main.py:60
+msgid "Se ha realizado la retirada"
+msgstr ""
+
+#: main.py:64
+msgid "Fin del programa"
+msgstr ""

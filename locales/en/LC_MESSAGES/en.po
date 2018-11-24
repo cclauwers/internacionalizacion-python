@@ -14,7 +14,7 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: main.py:17
@@ -71,8 +71,7 @@ msgstr "Please indicate the account number:"
 
 #: main.py:46
 msgid "El saldo de la cuenta "
-msgstr "The balance of the account
-"
+msgstr "The balance of the account"
 
 #: main.py:50 main.py:57
 msgid "Por favor indique el numero de cuenta al que desea hacer el ingreso:"

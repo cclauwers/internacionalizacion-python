@@ -1,7 +1,12 @@
 from persona import Persona
 import gettext
 
-_ = gettext.gettext
+
+idiomas = ['en','nl_BE']
+t = gettext.translation('main', localedir='locales', languages=idiomas ,fallback=True,)
+t.install()
+
+_ = t.gettext
 
 
 numCuentas = 2
